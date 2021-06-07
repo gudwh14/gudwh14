@@ -1,4 +1,7 @@
-<h1 align="center">JJo</h1>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/37062292/121001940-c22b4600-c7c6-11eb-9be9-883977df97c5.png"></img>
+</div>
+ 
   
 <div align="center">
   <h3>Contact</h3>
