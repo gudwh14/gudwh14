@@ -1,24 +1,15 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/37062292/121001940-c22b4600-c7c6-11eb-9be9-883977df97c5.png"></img>
-</div>
- 
-  
-<div align="center">
+<div align='center'>
+    
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gudwh14&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+    
+  <div>
   <h3>Contact</h3>
-
-   <img  src="https://img.shields.io/badge/alxious@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"></img>
-</div>
-
-<div align="center">
+  <img  src="https://img.shields.io/badge/alxious@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"></img>
   <h3>Blog</h3>
- 
   
   <a href="https://velog.io/@gudwh14">![](https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white)</a>
-</div>
-
-<h3 align="center"> ⚒ Tech Stack ⚒</h3>
-
-<div align="center">
+  
+  <h3> ⚒ Tech Stack ⚒</h3>
   <div>
     <img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"</img>
     <img  src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"</img>
@@ -34,7 +25,7 @@
     <img  src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"</img>
     <img  src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"</img>
   </div>
+  </div>
 </div>
-
 
 
