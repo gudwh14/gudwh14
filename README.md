@@ -7,7 +7,9 @@
   <img  src="https://img.shields.io/badge/alxious@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"></img>
   <h3>Blog</h3>
   
+  <a href="http://jjoming.vercel.app">![](https://img.shields.io/badge/Blog-FD5750?style=flat-square&logo=Vercel&logoColor=white)</a>
   <a href="https://golfani.github.io/category/front">![](https://img.shields.io/badge/GitHub.io-181717?style=flat-square&logo=Github&logoColor=white)</a>
+  
   
   <h3> ⚒ Tech Stack ⚒</h3>
   <div>
